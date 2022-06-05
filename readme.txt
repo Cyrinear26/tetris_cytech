@@ -9,7 +9,3 @@ Choisissez l’orientation et la colonne où vous souhaitez mettre la pièce sé
 Si vous ne respectez pas les condition un message d’erreur s’affichera et vous demandera de recommencer.
 
 Si vous toucher la ligne la plus haute : vous avez perdu ! le temps s’affichera automatiquement, la partie est terminée.
-
-
-
-make makefile_test
