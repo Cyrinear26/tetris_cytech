@@ -1,3 +1,10 @@
+Comment accéder et exécuté le fichier via le terminal?
+faire :
+cd tetris_cytech
+gcc -o main main.c
+./main
+
+
 Comment utiliser Tetris ??
 
 Lancer la partie.
